@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - manolo-alvarez
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - manolo-alvarez/TripWeaver
+  - manolo-alvarez/When2Stop
+  - manolo-alvarez/PoliTEA 
+  - manolo-alvarez/SafeBox-Breathalyzer
+  - manolo-alvarez/PredictiveFailures-ML
