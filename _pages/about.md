@@ -11,7 +11,7 @@ profile:
   more_info: # you typically add an address here
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
@@ -27,6 +27,6 @@ In middle and high school, my passion for robotics, math, and engineering took s
 
 Travel and fitness are integral to my life. Having visited 55 countries across five continents, I embrace the richness of global cultures and perspectives. My dedication to fitness, through daily exercise, is a testament to my belief in nurturing both the mind and the body. My intellectual appetite finds sustenance in podcasts like Huberman Lab, Lex Fridman, and the Tim Ferris Show, covering a spectrum of topics from technology to human physiology.
 
-My life philosophy is centered around self-improvement and positivity. I try to focus my energy, guard my time, train my mind, train my body, think for myself, curate my friends, curate my environment, keep my promises, stay cheerful and constructive, and upgrade my world. These are the principles that guide my actions and decisions day-to-day.
+My life philosophy is centered around self-improvement and positivity. I try to focus my energy, guard my time, train my mind, train my body, think for myself, curate my friends, curate my environment, keep my promises, stay cheerful and constructive, and upgrade my world. These are the principles that guide my actions and decisions.
 
 In every step of my journey, from the bustling streets of Guadalajara to the hallowed halls of Stanford, I carry with me a spirit of exploration, a commitment to excellence, and a relentless curiosity that drives me to understand and improve the world around me.
