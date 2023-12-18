@@ -13,7 +13,7 @@
   contents:
     - title: Master of Science
       institution: Stanford University
-      year: 2022-2026
+      year: 2022-present
       location: Hybrid
       description:
         - 'Field: Electrical Engineering'
@@ -53,8 +53,7 @@
       description:
         - Revamped professional development pillar by introducing 30 new networking and informational summer events with companies and professionals to better position members for fall recruitment.
         - Implemented a mentorship program with SHPE Austin for professionals to mentor and support 34 of our college members.
-        - Created a professional video platform for event recordings that allowed paid members to access content on-demand.
-        - Led and restructured the professional committee into mutually exclusive roles with added accountability and transitioned from a micro to agile form of management to create a culture of engagement that granted members space and flexibility to contribute.
+        - Led and restructured the professional committee into mutually exclusive roles with added accountability and created a culture of engagement that granted members space and flexibility to contribute.
     - title: System Architect Intern
       institution: Dell Technologies
       year: 2020
@@ -62,7 +61,7 @@
       description:
         - Managed early confidential Intel CPU and Nvidia GPU collateral to floor plan performance upgrade for 2022 XPS PC.
         - Applied highspeed routing and PCB stack-up concepts to combat insertion loss, cross talk, and reduce predecessor’s 14-layer motherboard to 12 layers saving about $4,020,500USD over units sold.
-    - title: Battery Protection System Engineer
+    - title: Embedded Systems Engineer
       institution: UT Solar Vehicle Team
       year: 2018-2020
       location: Austin, TX
