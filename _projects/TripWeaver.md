@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Trip Weaver &emsp;&emsp;&emsp;&emsp;
-description: An Artificial Travel Agent on the Edge. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+title: Trip Weaver
+description: Tuning a foundational LLM to formulate comprehensive travel itineraries within the bounds of consumer hardware.
 img: assets/img/TripWeaver/TripWeaver.png
 importance: 1
 category: academic
-related_publications: einstein1956investigations
+#related_publications: einstein1956investigations
 ---
 <div class="caption">
     <b>Abstract</b>

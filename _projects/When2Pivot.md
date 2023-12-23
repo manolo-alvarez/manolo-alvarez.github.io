@@ -1,7 +1,7 @@
 ---
 layout: page
-title: When2Pivot &emsp;&emsp;&emsp;&emsp;
-description: An attempt to fully automatize RL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+title: When2Pivot
+description: An attempt to improve on the performance of state-of-the-art algorithms in autonomous RL benchmarks.
 img: assets/img/When2Pivot.png
 importance: 3
 category: academic

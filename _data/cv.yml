@@ -88,31 +88,32 @@
       institution: Koi Sushi & Bar
       location: Brownsville, TX
       year: 2015-2016
-- title: Public Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/electchain-app">Decentralized Voting Application</a>
-      year: 2021
-      description:
-        - Developed, as a team, a functioning decentralized voting application on react native that homomorphically and locally encrypted votes, stored them on the interplanetary file system and placed the hash on the Ethereum network.
-        - Presented a PoC that won second place in the honors senior design competition within the electrical engineering department.
-        - Formed the idea, gathered the team, found us an advisor, and led communication and research efforts.
-    - title: <a href="https://github.com/manolo-alvarez/SafeBox-Breathalyzer">Wireless Breathalyzer Lock Box</a>
-      year: 2020
-      description:
-        - Worked in a team to develop a smart lock box that was accessed with the pass of a blow to a wireless breathalyzer.
-        - Formulated schematics and placed, routed, and soldered the entire PCB.
-        - Responsible for the wireless integration of the MQ3 sensor and the servo motor used to lock/unlock the box.
-    - title: <a href="https://github.com/manolo-alvarez/PredictiveFailures-ML">ML Predictive Failures with ConocoPhillips</a>
-      year: 2020
-      description:
-        - Led development of ML workflows to find leading predictors for rod pump failure/downtime and optimal design.
-        - Compiled, wrote, and presented research results to peers and industry stakeholders on a newly built, interactive, dashboard.
-    - title: <a href="https://github.com/manolo-alvarez/PoliTEA">PoliTEA Web App</a>
-      year: 2020
-      description:
-      - Built, as a team, a web app to provide information on U.S. politicians, bills, and voter resources in NodeJS.
-      - Implemented a frontend using HTML, CSS, Bootstrap, JQuery, and a RestAPI backend using Express and Mongo.
+
+#- title: Public Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/electchain-app">Decentralized Voting Application</a>
+#      year: 2021
+#      description:
+#        - Developed, as a team, a functioning decentralized voting application on react native that homomorphically and locally encrypted votes, stored them on the interplanetary file system and placed the hash on the Ethereum network.
+#        - Presented a PoC that won second place in the honors senior design competition within the electrical engineering department.
+#        - Formed the idea, gathered the team, found us an advisor, and led communication and research efforts.
+#    - title: <a href="https://github.com/manolo-alvarez/SafeBox-Breathalyzer">Wireless Breathalyzer Lock Box</a>
+#      year: 2020
+#      description:
+#        - Worked in a team to develop a smart lock box that was accessed with the pass of a blow to a wireless breathalyzer.
+#        - Formulated schematics and placed, routed, and soldered the entire PCB.
+#        - Responsible for the wireless integration of the MQ3 sensor and the servo motor used to lock/unlock the box.
+#    - title: <a href="https://github.com/manolo-alvarez/PredictiveFailures-ML">ML Predictive Failures with ConocoPhillips</a>
+#      year: 2020
+#      description:
+#        - Led development of ML workflows to find leading predictors for rod pump failure/downtime and optimal design.
+#        - Compiled, wrote, and presented research results to peers and industry stakeholders on a newly built, interactive, dashboard.
+#    - title: <a href="https://github.com/manolo-alvarez/PoliTEA">PoliTEA Web App</a>
+#      year: 2020
+#      description:
+#      - Built, as a team, a web app to provide information on U.S. politicians, bills, and voter resources in NodeJS.
+#      - Implemented a frontend using HTML, CSS, Bootstrap, JQuery, and a RestAPI backend using Express and Mongo.
 
 - title: Honors and Awards
   type: time_table

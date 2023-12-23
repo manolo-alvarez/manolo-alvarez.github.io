@@ -5,7 +5,7 @@ description: World’s smallest footprint 16-inch workstation.*
 img: assets/img/Precision5680_1.jpg
 importance: 1
 category: work
-related_publications:
+#related_publications:
 ---
 My first project :sunglasses:. As an electrical architect, I was responsible for early electrical floor plans, managing requirements, assessing and communicating risks, collaborating with procurement on sourcing and cost, aligning with the business on marketing goals, and driving our Taiwanese partners through define gates. 
 
