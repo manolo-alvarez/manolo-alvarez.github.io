@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Precision 5680
-description: World’s smallest* footprint 16-inch workstation
+description: World’s smallest footprint 16-inch workstation.*
 img: assets/img/Precision5680_1.jpg
 importance: 1
 category: work
@@ -26,5 +26,5 @@ The high performance the Precision 5680 delivers in such a thin & light chassis 
     16-inch premium workstation for users who want high performance and a large display in a thin & light chassis.
 </div>
 
-Check it out on Dell's Website <a href="https://www.dell.com/en-us/shop/dell-laptops/precision-5680-workstation/spd/precision-16-5680-laptop">here</a>.
+Check it out on Dell's Website <a href="https://www.dell.com/en-us/shop/dell-laptops/precision-5680-workstation/spd/precision-16-5680-laptop">here</a>.<br>
 *as of April, 2023.
