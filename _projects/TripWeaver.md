@@ -7,6 +7,8 @@ importance: 1
 category: academic
 #related_publications: einstein1956investigations
 ---
+<u>Note</u>: scroll to the bottom of this page for the full paper, and click <a href="https://github.com/manolo-alvarez/TripWeaver">HERE</a> for Github Repo.
+
 <div class="caption">
     <b>Abstract</b>
 </div>
@@ -51,3 +53,7 @@ Travel is a fun, enriching experience that often succumbs to the burdensome weig
     </div>
 </div>
 
+<div class="caption">Full Paper</div>
+<div class="center">
+    <embed src="../../assets/pdf/TripWeaver.pdf" width="100%" height="900px" />
+</div>

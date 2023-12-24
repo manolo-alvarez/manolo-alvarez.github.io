@@ -7,7 +7,7 @@ importance: 2
 category: academic
 #related_publications:
 ---
-Note: scroll to the bottom of this page for the full paper.
+<u>Note</u>: scroll to the bottom of this page for the full paper.
 
 <div class="caption">
     <b>Introduction</b>
@@ -30,3 +30,4 @@ Static thermal and acoustic operating modes over-constrain system power levels i
 <div class="center">
     <embed src="../../assets/pdf/SilentFanBoost.pdf" width="100%" height="900px" />
 </div>
+

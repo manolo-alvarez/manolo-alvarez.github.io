@@ -7,7 +7,7 @@ importance: 1
 category: work
 #related_publications:
 ---
-My first project :sunglasses:. As an electrical architect, I was responsible for early electrical floor plans, managing requirements, assessing and communicating risks, collaborating with procurement on sourcing and cost, aligning with the business on marketing goals, and driving our Taiwanese partners through define gates. 
+My first project with the team :sunglasses:. As an electrical architect, I was responsible for early electrical floor plans, managing requirements, assessing and communicating risks, collaborating with procurement on sourcing and cost, aligning with the business on marketing goals, and driving our Taiwanese partners through define gates. 
 
 The high performance the Precision 5680 delivers in such a thin & light chassis is an Engineering feat I'm incredibly proud of.
 
