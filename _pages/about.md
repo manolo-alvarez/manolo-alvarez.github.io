@@ -29,7 +29,7 @@ Post-graduation, my journey continued at Dell Technologies, where I've been resp
 
 In August of 2022, acting on a desire to keep abreast of subjects beyond my immediate professional role, I embarked on a part-time M.S. in Electrical Engineering at Stanford University with a focus on Artificial Intelligence.
 
-Travel and fitness are integral to my life. Having visited 55 countries across five continents, I embrace the richness of global cultures and perspectives. My dedication to fitness, through daily exercise, is a testament to my belief in nurturing both the mind and the body. My intellectual appetite finds sustenance in podcasts like Huberman Lab, Lex Fridman, and the Tim Ferris Show, covering a spectrum of topics from technology to human physiology.
+Travel is integral to my life. Having visited 55 countries across five continents, I embrace the richness of global cultures and perspectives. On my spare time, I find sustenance in daily exercise and podcasts like Huberman Lab, Lex Fridman, and the Tim Ferris Show, covering a spectrum of topics from technology to human physiology.
 
 My life philosophy is centered around self-improvement and positivity. I try to focus my energy, guard my time, train my mind, train my body, think for myself, curate my friends, curate my environment, keep my promises, stay cheerful and constructive, and upgrade my world.
 
