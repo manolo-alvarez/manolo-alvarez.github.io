@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Predictive Failures
-description: Predictive modeling of rod pump failures through ML
+description: Partnered with ConocoPhilips to develop predictive modeling of rod pump failures through ML.
 img: assets/img/RodPump.png
 importance: 4
 category: academic
 #related_publications: 
 ---
 <h4><b>Introduction</b></h4>
-In this project, my colleagues and I partnered with Conoco Philips to address the following questions: <i> </i>, and <i></i>
+In this project, my colleagues and I partnered with ConocoPhilips to address the following questions: <i> </i>, and <i></i>
 <ul>
     <li>What production and mechanical parameters are the leading predictors for rod pump failure/downtime?</li>
     <li>What is the best rod-pump design to prevent failures?</li>

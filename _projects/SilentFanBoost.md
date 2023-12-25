@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Silent Fan Boost
-description: Learning system fan and ambient noise combinations audible to PC users
+description: Learning system fan and ambient noise combinations audible to PC users.
 img: assets/img/SilentFanBoost.png
 importance: 2
 category: academic
