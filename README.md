@@ -242,11 +242,11 @@
 <!--
 <!--Now, feel free to customize the theme however you like (don't forget to change the name!). After you are done, you can use the same command (`docker compose up`) to render <!--the webpage with all you changes. Also, make sure to commit your final changes.
 <!--
-<!--> To change port number, you can edit `docker-compose.yml` file.
+<!-- To change port number, you can edit `docker-compose.yml` file.
 <!--
 <!--<details><summary>(click to expand) <strong>Build your own docker image:</strong></summary>
 <!--
-<!--> Note: this approach is only necessary if you would like to build an older or very custom version of al-folio.
+<!-- Note: this approach is only necessary if you would like to build an older or very custom version of al-folio.
 <!--
 <!--Build and run a new docker image using:
 <!--
@@ -254,7 +254,7 @@
 <!--$ docker compose up --build
 <!--```
 <!--
-<!--> If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of the previous <!--command! It will download Ruby and Jekyll and install all Ruby packages again from scratch.
+<!-- If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of the previous <!--command! It will download Ruby and Jekyll and install all Ruby packages again from scratch.
 <!--
 <!--If you want to use a specific docker version, you can do so by changing `latest` tag to `your_version` in `docker-compose.yaml`. For example, you might have created your <!--website on `v0.10.0` and you want to stick with that. 
 <!--
@@ -361,7 +361,7 @@
 <!--
 <!--The quote below is taken directly from the [jekyll configuration docs](https://jekyllrb.com/docs/configuration/options/):
 <!--
-<!--> Destination folders are cleaned on site builds
+<!-- Destination folders are cleaned on site builds
 <!-->
 <!--> The contents of `<destination>` are automatically cleaned, by default, when the site is built. Files or folders that are not created by your site will be removed. Some <!--files could be retained by specifying them within the `<keep_files>` configuration directive.
 <!-->
