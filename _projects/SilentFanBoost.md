@@ -27,7 +27,5 @@ Operating power in PC's is a function of thermal and acoustic constraints, and t
 Static thermal and acoustic operating modes over-constrain system power levels in environments where such parameters have a negligible effect on customer experience. Sone (noise) limits are intended to prevent users from experiencing uncomfortable fan noise in the most "common" environment but the distribution of noise-level across environments is a wide one and this static limit does not take opportunistic advantage of environmental factors that boost system performance at the expense of unnoticeable fan noise to the customer.
  
 <div class="caption">Full Paper</div>
-<div class="center">
-    <embed src="../../assets/pdf/SilentFanBoost.pdf" width="100%" height="900px" />
-</div>
+<iframe src="../../assets/pdf/SilentFanBoost.pdf" style="width: 100%; height: 100vh"></iframe>
 
