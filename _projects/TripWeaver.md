@@ -54,6 +54,4 @@ Travel is a fun, enriching experience that often succumbs to the burdensome weig
 </div>
 
 <div class="caption">Full Paper</div>
-<div class="center">
-    <embed src="../../assets/pdf/TripWeaver.pdf" width="100%" height="900px" />
-</div>
+<iframe src="../../assets/pdf/TripWeaver.pdf" style="width: 100%; height: 100vh"></iframe>
