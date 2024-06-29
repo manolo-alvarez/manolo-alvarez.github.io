@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Learning Ansys HFSS and SIWave to run simulations of my PCB for work.
+Learning Ansys HFSS and SIWave to run simulations of my PCBs.
