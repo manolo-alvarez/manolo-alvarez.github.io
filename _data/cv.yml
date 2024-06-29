@@ -28,14 +28,18 @@
 - title: Professional Roles
   type: time_table
   contents:
+    - title: Electrical Design Engineer
+      institution: Apptronik
+      year: 2024-present
+      location: Austin, TX
     - title: System Architect
       institution: Dell Technologies
-      year: 2021-present
+      year: 2021-2024
       location: Austin, TX
       description:
-        - Lead a broad set of activities necessary to take a design from concept to production including architecture definition, analysis, schematic design, sourcing, simulation, work with ECAD for physical board layout/route, validation, debug, and test issue prioritization.
-        - Work with cross functional teams and suppliers to ensure the design meets set requirements for schedule, feature set, functionality, cost, continuity of supply, quality, reliability, regulatory compliance, and industry standards compliance.
-        - Intern group leader and mentor - Lead discussions, facilitate connections, and help them with their projects.
+        - Led a broad set of activities necessary to take a design from concept to production including architecture definition, analysis, schematic design, sourcing, simulation, work with ECAD for physical board layout/route, validation, debug, and test issue prioritization.
+        - Worked with cross functional teams and suppliers to ensure the design meets set requirements for schedule, feature set, functionality, cost, continuity of supply, quality, reliability, regulatory compliance, and industry standards compliance.
+        - Intern group leader and mentor - Led discussions, facilitated connections, and helped them with their projects.
         - Engineering recruiting co-lead for the Latino Resource Group - Hosted in-person recruiting events, established relationships with SHPE chapters across TX, and drove conversations with HR strategists. Recruited and delivered speeches at the Universities of Texas, Houston, and the GMiS conference in Pasadena, CA.
         - Engineering lead for the Organizational Engagement Pillar of the Recent Graduate Program - Organized events with leaders across the company to inform recent graduates of efforts and opportunies for involvement.
         #- title: Description 3.
