@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multimodal MoE for VQA
-description: A LVLM fine-tuned for engineering reasoning and tasks that leverages a Mixture of Experts (MoE) framework for computational efficiency.
+description: A LVLM fine-tuned for engineering reasoning and tasks with a MoE.
 img: assets/img/CS224N_Project_Poster.png
 importance: 3
 category: academic
