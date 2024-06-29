@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-16 18:00:00-0400
+date: 2024-02-13 18:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Started CS224N - Natual Language Processing.
+Learning Ansys HFSS and SIWave to run simulations of my PCB for work.

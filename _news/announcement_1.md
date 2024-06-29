@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented Trip Weaver at Stanford! :smile:
+Presented "Trip Weaver" at Stanford! :smile:
