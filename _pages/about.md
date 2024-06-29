@@ -25,7 +25,7 @@ Born in Guadalajara, Mexico, and immigrating to Brownsville, Texas, at age 10, m
 
 In middle and high school, my passion for robotics, math, and engineering took shape. I graduated from The University of Texas at Austin in May of 2021 with a degree in Electrical & Computer Engineering, and a business minor. 
 
-Post-graduation, my journey continued at Dell Technologies, where I've been responsible for the design and development activities associated with electronic designs in platforms with high complexity and new technology ingredients across Dell's lines of business. 
+Post-graduation, my journey continued at Dell Technologies, where I was responsible for the design and development activities associated with electronic designs in platforms with high complexity and new technology ingredients across Dell's lines of business. In early 2024, I left Dell to join the race for general purpose robots at Apptronik. Here, I am responsible for the electrical design and testing of various modules in our humanoid.
 
 In August of 2022, acting on a desire to keep abreast of subjects beyond my immediate professional role, I embarked on a part-time M.S. in Electrical Engineering at Stanford University with a focus on Artificial Intelligence.
 
