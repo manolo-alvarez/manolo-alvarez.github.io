@@ -32,35 +32,17 @@
       institution: Apptronik
       year: 2024-present
       location: Austin, TX
+      description:
+        - Designed our power and communication splitter boards with a GaN variable power supply, EtherCAT switches, RS485 transceiver, eFuses, and other circuits that are used across the entire body of our second gen. humanoid.
+        - Responsible for my hardware from design through manufacturing, validation, ad build.
+        - Owned the architecture, build, and planning of the testbed used to validate all the electronics in our system.
     - title: System Architect
       institution: Dell Technologies
       year: 2021-2024
       location: Austin, TX
       description:
         - Led a broad set of activities necessary to take a design from concept to production including architecture definition, analysis, schematic design, sourcing, simulation, work with ECAD for physical board layout/route, validation, debug, and test issue prioritization.
-        - Worked with cross functional teams and suppliers to ensure the design meets set requirements for schedule, feature set, functionality, cost, continuity of supply, quality, reliability, regulatory compliance, and industry standards compliance.
-        - Intern group leader and mentor - Led discussions, facilitated connections, and helped them with their projects.
-        - Engineering recruiting co-lead for the Latino Resource Group - Hosted in-person recruiting events, established relationships with SHPE chapters across TX, and drove conversations with HR strategists. Recruited and delivered speeches at the Universities of Texas, Houston, and the GMiS conference in Pasadena, CA.
-        - Engineering lead for the Organizational Engagement Pillar of the Recent Graduate Program - Organized events with leaders across the company to inform recent graduates of efforts and opportunies for involvement.
-        #- title: Description 3.
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
-    - title: Academics Committee Chair
-      institution: UT Electrical & Computer Engineering Undergraduate Advisory Board
-      year: 2018-2021
-      location: Austin, TX
-      description:
-        - Improved the ECE undergraduate experience by facilitating faculty town hall discussions, connecting students through social events, and directing channels of feedback to faculty and administration. 
-        - Collaborated with professors and faculty from the ECE department to bring about changes to the ECE curriculum, create more relevant four-year plans, reform the general ECE requirements, and tailor technical cores to fit the student’s needs.
-    - title: Professional Director
-      institution: UT Society of Hispanic Professional Engineers 
-      year: 2020
-      location: Austin, TX
-      description:
-        - Revamped professional development pillar by introducing 30 new networking and informational summer events with companies and professionals to better position members for fall recruitment.
-        - Implemented a mentorship program with SHPE Austin for professionals to mentor and support 34 of our college members.
-        - Led and restructured the professional committee into mutually exclusive roles with added accountability and created a culture of engagement that granted members space and flexibility to contribute.
+        - Worked with cross functional teams and suppliers to ensure the design meets set requirements for schedule, feature set, functionality, cost, continuity of supply, quality, reliability, regulatory and industry standards compliance.
     - title: System Architect Intern
       institution: Dell Technologies
       year: 2020
@@ -68,13 +50,6 @@
       description:
         - Managed early confidential Intel CPU and Nvidia GPU collateral to floor plan performance upgrade for 2022 XPS PC.
         - Applied highspeed routing and PCB stack-up concepts to combat insertion loss, cross talk, and reduce predecessor’s 14-layer motherboard to 12 layers saving about $4,020,500USD over units sold.
-    - title: Embedded Systems Engineer
-      institution: UT Solar Vehicle Team
-      year: 2018-2020
-      location: Austin, TX
-      description:
-        - Developed, as a team, a Battery Protection System that disconnected the battery from the rest of the car’s electrical system if any electrical or thermal parameter was out of range to provide safe operation of the lithium-ion battery system.
-        - Implemented a system that provided supplemental features such as telemetry output, battery state of charge, pre-charge contactor control, and a driver display to relay the driver with information on the current state of the battery. 
     - title: Cabin & Network Systems Engineering Intern
       institution: The Boeing Company 
       year: 2019
@@ -83,18 +58,18 @@
         - Analyzed power irregularities during test flights and presented a root cause report with data to support changes to the 787 In-Flight Entertainment (IFE) requirements saving about $100,000USD per plane.
         - Generated a power usage forecast of consumer electronics compatible with newest IFE systems to generate a power budget that ensures system functionality 30+ years after delivery.
         - Collaborated on numerous projects with production line mechanics and engineers to improve safety and production efficiency saving over 120 work hours.
-    - title: Golf Course Staff
-      institution: Rancho Viejo Resort & Country Club
-      location: Rancho Viejo, TX
-      year: 2016-2017
-    - title: Toy Salesman
-      institution: Sunrise Mall
-      location: Brownsville, TX
-      year: 2016
-    - title: Waiter
-      institution: Koi Sushi & Bar
-      location: Brownsville, TX
-      year: 2015-2016
+#    - title: Golf Course Staff
+#      institution: Rancho Viejo Resort & Country Club
+#      location: Rancho Viejo, TX
+#      year: 2016-2017
+#    - title: Toy Salesman
+#      institution: Sunrise Mall
+#      location: Brownsville, TX
+#      year: 2016
+#    - title: Waiter
+#      institution: Koi Sushi & Bar
+#      location: Brownsville, TX
+#      year: 2015-2016
 
 #- title: Public Projects
 #  type: time_table
@@ -121,7 +96,39 @@
 #      description:
 #      - Built, as a team, a web app to provide information on U.S. politicians, bills, and voter resources in NodeJS.
 #      - Implemented a frontend using HTML, CSS, Bootstrap, JQuery, and a RestAPI backend using Express and Mongo.
-
+- title: Volunteering & Activities
+  type: time_table
+  contents:
+    - title: Intern, Recruiting, and Recent Graduate Leader & Mentor
+      institution: Dell Technologies
+      year: 2021-2024
+      location: Austin, TX
+      description:
+        - Intern cell group leader and mentor - Led discussions, facilitated connections, and helped them with their projects.
+        - Engineering recruiting co-lead for the Latino Resource Group - Hosted in-person recruiting events, established relationships with SHPE chapters across TX, and drove conversations with HR strategists. Recruited and delivered speeches at the Universities of Texas, Houston, and the GMiS conference in Pasadena, CA.
+        - Lead of Engineering for the Organizational Engagement Pillar of the Recent Graduate Program - Organized events with leaders across the company to inform recent graduates of efforts and opportunities for involvement.
+    - title: Academics Committee Chair
+      institution: UT Electrical & Computer Engineering Undergraduate Advisory Board
+      year: 2018-2021
+      location: Austin, TX
+      description:
+        - Improved the ECE undergraduate experience by facilitating faculty town hall discussions, connecting students through social events, and directing channels of feedback to faculty and administration. 
+        - Collaborated with professors and faculty from the ECE department to bring about changes to the ECE curriculum, create more relevant four-year plans, reform the general ECE requirements, and tailor technical cores to fit the student’s needs.
+    - title: Professional Director
+      institution: UT Society of Hispanic Professional Engineers 
+      year: 2020
+      location: Austin, TX
+      description:
+        - Revamped professional development pillar by introducing 30 new networking and informational summer events with companies and professionals to better position members for fall recruitment.
+        - Implemented a mentorship program with SHPE Austin for professionals to mentor and support 34 of our college members.
+        - Led and restructured the professional committee into mutually exclusive roles with added accountability and created a culture of engagement that granted members space and flexibility to contribute.
+    - title: Embedded Systems Engineer
+      institution: UT Solar Vehicle Team
+      year: 2018-2020
+      location: Austin, TX
+      description:
+        - Developed, as a team, a Battery Protection System that disconnected the battery from the rest of the car’s electrical system if any electrical or thermal parameter was out of range to provide safe operation of the lithium-ion battery system.
+        - Implemented a system that provided supplemental features such as telemetry output, battery state of charge, pre-charge contactor control, and a driver display to relay the driver with information on the current state of the battery.   
 - title: Honors and Awards
   type: time_table
   contents:
@@ -132,7 +139,6 @@
     - year: 2021
       items: 
         - Graduated with High Honors
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -144,7 +150,7 @@
       items:
         - Power Electronics
         - High Speed Digital Design
-
+        - Motor Control
 - title: Other Interests
   type: list
   contents:
