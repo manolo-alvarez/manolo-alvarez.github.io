@@ -142,10 +142,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Artificial Intelligence
+    - title: Robotic Learning
       items: 
         - Deep Reinforcement Learning
-        - Deep Generative Models
+        - Deep Visuomotor Policies
+        - LVLM for Robotics
     - title: Hardware Design
       items:
         - Power Electronics
