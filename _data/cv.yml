@@ -34,7 +34,7 @@
       location: Austin, TX
       description:
         - Designed our power and communication splitter boards with a GaN variable power supply, EtherCAT switches, RS485 transceiver, eFuses, and other circuits that are used across the entire body of our second gen. humanoid.
-        - Responsible for my hardware from design through manufacturing, validation, ad build.
+        - Responsible for my hardware from design through manufacturing, validation, and build.
         - Owned the architecture, build, and planning of the testbed used to validate all the electronics in our system.
     - title: System Architect
       institution: Dell Technologies
