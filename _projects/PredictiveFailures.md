@@ -3,7 +3,7 @@ layout: page
 title: Predictive Failures
 description: Partnered with ConocoPhilips to develop predictive modeling of rod pump failures through ML.
 img: assets/img/RodPump.png
-importance: 4
+importance: 6
 category: academic
 #related_publications: 
 ---

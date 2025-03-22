@@ -3,7 +3,7 @@ layout: page
 title: Precision 5680
 description: World’s smallest footprint 16-inch workstation.*
 img: assets/img/Precision5680_1.jpg
-importance: 1
+importance: 2
 category: work
 #related_publications:
 ---

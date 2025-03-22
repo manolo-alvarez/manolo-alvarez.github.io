@@ -3,7 +3,7 @@ layout: page
 title: When2Pivot
 description: An attempt to improve on the performance of state-of-the-art algorithms in autonomous RL benchmarks.
 img: assets/img/When2Pivot.png
-importance: 3
+importance: 5
 category: academic
 #related_publications: 
 ---

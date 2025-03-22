@@ -3,7 +3,7 @@ layout: page
 title: Safe Box
 description: Built a wireless box that keeps items locked when a breathalyzer reads an alcohol value that's too high. 
 img: assets/img/SafeBox.png
-importance: 6
+importance: 7
 category: academic
 #related_publications: 
 ---

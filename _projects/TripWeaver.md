@@ -3,7 +3,7 @@ layout: page
 title: Trip Weaver
 description: Tuning a foundational LLM to formulate comprehensive travel itineraries within the bounds of consumer hardware.
 img: assets/img/TripWeaver/TripWeaver.png
-importance: 1
+importance: 2
 category: academic
 #related_publications: einstein1956investigations
 ---
