@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ApolloAndMe.jpeg
   image_circular: false # crops the image to make it circular
   more_info: # you typically add an address here
 
@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 #
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), #like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
-Welcome to my website! I am an Electrical Engineer at Apptronik, where I design advanced power and communication systems for humanoids, and a part-time Stanford EE graduate student focused on Deep Learning. My interests span Deep Robotic Learning and Hardware Design. This combination of hardware work and AI-focused education, positions me at the forefront of hardware and AI integration for robotic learning. 
+Welcome to my website! I am an Electrical Engineer at Apptronik, where I design advanced power and communication systems for humanoids, and a part-time Stanford EE graduate student focused on Deep Learning. My interests span Robotic Learning and Hardware Design. This combination of hardware work and AI-focused education, positions me at the forefront of hardware and AI integration for robotic learning. 

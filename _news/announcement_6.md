@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Partnered up with Stanford classmates to explore the minimal propioceptive setup needed for stable locomotion.
+Explored the minimal propioceptive setup needed for stable locomotion.
