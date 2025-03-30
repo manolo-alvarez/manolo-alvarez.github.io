@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minimal proprioception
+title: Minimal Proprioception
 description: Explored the minimal proprioceptive pipeline for stable locomotion of a toy humanoid
 img: assets/img/zbot.png
 importance: 1
