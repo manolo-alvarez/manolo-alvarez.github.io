@@ -16,18 +16,19 @@
       description:
         - 'Field: Electrical Engineering'
         - 'Focus: Deep Learning'
-        - 'Classes:'
-        - '  - CS 230: Deep Learning'
-        - '  - CS 255: Intro to Cryptography'
-        - '  - CS 224R: Deep Reinforcement Learning'
-        - '  - CS 236: Deep Generative Models'
-        - '  - CS 224N: Deep Natural Language Processing'
-        - '  - EE 284A: Internet Of Things'
-        - '  - CS 227: Robot Perception'
-        - '  - CS 234: Reinforcement Learning'
-        - '  - CS 224S: Spoken Language Processing'
-        - '  - CS 329A: Self Improving AI Agents'
-        - '  - CS 372: AGI'
+        - title: 'Classes'
+          contents:
+            - 'CS 230: Deep Learning'
+            - 'CS 255: Intro to Cryptography'
+            - 'CS 224R: Deep Reinforcement Learning'
+            - 'CS 236: Deep Generative Models'
+            - 'CS 224N: Deep Natural Language Processing'
+            - 'EE 284A: Internet Of Things'
+            - 'CS 227: Robot Perception'
+            - 'CS 234: Reinforcement Learning'
+            - 'CS 224S: Spoken Language Processing'
+            - 'CS 329A: Self Improving AI Agents'
+            - 'CS 372: AGI'
     - title: Bachelor of Science
       institution: University of Texas at Austin
       year: 2017-2021
