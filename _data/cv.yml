@@ -15,7 +15,19 @@
       location: Hybrid
       description:
         - 'Field: Electrical Engineering'
-        - 'Focus: Artificial Intelligence'
+        - 'Focus: Deep Learning'
+        - 'Classes:'
+        - '  - CS 230: Deep Learning'
+        - '  - CS 255: Intro to Cryptography'
+        - '  - CS 224R: Deep Reinforcement Learning'
+        - '  - CS 236: Deep Generative Models'
+        - '  - CS 224N: Deep Natural Language Processing'
+        - '  - EE 284A: Internet Of Things'
+        - '  - CS 227: Robot Perception'
+        - '  - CS 234: Reinforcement Learning'
+        - '  - CS 224S: Spoken Language Processing'
+        - '  - CS 329A: Self Improving AI Agents'
+        - '  - CS 372: AGI'
     - title: Bachelor of Science
       institution: University of Texas at Austin
       year: 2017-2021
@@ -26,11 +38,12 @@
 - title: Professional Roles
   type: time_table
   contents:
-    - title: Electrical Design Engineer
+    - title: Senior Electrical Engineer
       institution: Apptronik
       year: 2024-present
       location: Austin, TX
       description:
+        - Leading our HRI HW & Software efforts for our third generation humanoid.
         - Driving full Electrical bringup of our second generation humanoid.
         - Designed our power and communication splitter boards with a GaN variable power supply, EtherCAT switches, RS485 transceiver, eFuses, and other circuits that are used across our second gen. humanoid.
         - Responsible for my hardware from design through manufacturing, validation, and build.
@@ -143,16 +156,16 @@
   contents:
     - title: Robotic Learning
       items: 
-        - Deep Reinforcement Learning
-        - Deep Visuomotor Policies
-        - LVLM for Robotics
+        - HRI (Human-Robot Interaction)
+        - Multi-robot Collaboration
+        - Fine Manipulation
     - title: Hardware Design
-      items:
+      items: 
+        - Tactile Sensing
+        - Acoustic Sensing
         - Power Electronics
-        - High Speed Digital Design
-        - Motor Control
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Travel, Golf, Soccer, Hiking.
-    - <u>Podcasts:</u> Huberman Lab, Lex Fridman, The Tim Ferris Show.
+    - <u>Podcasts:</u> The Drive, Huberman Lab, Lex Fridman, The Tim Ferris Show.
